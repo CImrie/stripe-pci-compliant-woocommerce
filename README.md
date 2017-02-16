@@ -7,4 +7,5 @@ Only PCI-related changes have been made by myself and should be credited to me w
 
 ## This was released as nazrulhassanmca had not updated the main plugin (see here: https://wordpress.org/support/topic/pretty-shocking-error-all-of-your-users-could-be-operating-illegally?replies=7#post-7947580)
 
-Should he merge this with his codebase I will remove this repository.
+# Please note that the original plugin has now been updated.
+It can be found at https://en-gb.wordpress.org/plugins/stripe-woocommerce-addon/
